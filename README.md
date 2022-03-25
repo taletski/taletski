@@ -1,6 +1,6 @@
 Hi, I’m Kirill 👋
 
-I build things with JavaScript - mostly with React and Next.js 
+I build things with React, Node.js and TypeScript. 
 
 Feel free to reach out:
 - 📫 mail: kirill@taletski.com
