@@ -3,7 +3,7 @@ Hi, I’m Kirill 👋
 Happily building web and mobile apps with TypeScript, React (Native), Next.js and Node.js.
 
 Feel free to reach out:
-- 📫 mail: [kirill@taletski.com][mailto:kirill@taletski.com]
+- 📫 mail: [kirill@taletski.com](mailto:kirill@taletski.com)
 - 📱 telegram: [@taletski](https://t.me/taletski)
 
 <!---
