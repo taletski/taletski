@@ -1,6 +1,7 @@
 Hi, I’m Kirill 👋
 
 Happily building web and mobile apps with TypeScript, React (Native), Next.js and Node.js.
+Exploring Rust, love its design so far, working on making it my go-to language.
 
 Feel free to reach out:
 - 📫 mail: [kirill@taletski.com](mailto:kirill@taletski.com)
